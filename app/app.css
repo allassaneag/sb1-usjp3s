@@ -1,0 +1,35 @@
+.btn {
+  font-size: 18;
+  padding: 10;
+  margin: 10;
+  border-radius: 5;
+}
+
+.btn-primary {
+  background-color: #007AFF;
+  color: white;
+}
+
+.btn-secondary {
+  background-color: #5856D6;
+  color: white;
+}
+
+.input {
+  padding: 10;
+  margin: 5;
+  border-width: 1;
+  border-color: #ccc;
+  border-radius: 5;
+}
+
+.label {
+  font-weight: bold;
+  margin-bottom: 5;
+}
+
+.delivery-item {
+  background-color: #f8f8f8;
+  border-radius: 10;
+  margin: 5;
+}
